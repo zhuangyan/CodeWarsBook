@@ -1,2 +1,1 @@
-# CodeWarsBook
 CodeWars题解
