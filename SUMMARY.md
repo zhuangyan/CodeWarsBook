@@ -9,6 +9,7 @@
     * [Regex Password Validation](5-kyu/regex-password-validation.md)
 * 6 kyu
     * [Sum of many ints](6-kyu/sum-of-many-ints.md)
+    * [ Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
 * 7 kyu
 * 8 kyu
 

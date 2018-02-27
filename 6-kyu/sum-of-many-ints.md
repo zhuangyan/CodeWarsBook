@@ -16,7 +16,7 @@ You'll need to get a little clever with performance, since n can be a very large
 
 #Best Practices
 
-**First:**
+**JS First:**
 ```js
 f = function(n, m) {
   sum1toN = function(x) {
@@ -27,14 +27,14 @@ f = function(n, m) {
 };
 ```
 
-**Second:**
+**JS Second:**
 ```js
 function f(n, m) {
   return Math.floor(n / m) * m * (m - 1) / 2 + (n % m) * (n % m + 1) / 2
 }
 ```
 
-**Third:**
+**JS Third:**
 ```js
 function f(n, m) {
   return gauss(m - 1) * (n / m | 0) + gauss(n % m)
@@ -45,14 +45,14 @@ function gauss(n) {
 }
 ```
 
-**Fourth:**
+**JS Fourth:**
 ```js
 function f(n, m) {
   return Math.floor(n/m) * (m-1)*m/2 + (n%m)*(n%m+1)/2;
 }
 ```
 
-**Fifth:**
+**JS Fifth:**
 ```js
 function f(n, m) {
   return ~~(n/m)*m*(m-1)/2 + n%m * (n%m + 1)/2;
