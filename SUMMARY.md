@@ -15,6 +15,7 @@
     * [🔮The Shell Game](6-kyu/the-shell-game.md)
     * [👁️English beggars](6-kyu/english-beggars.md)
     * [👀Longest Palindrome](6-kyu/longest-palindrome.md)
+    * [🐟How much hex is the fish](6-kyu/how-much-hex-is-the-fish.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
