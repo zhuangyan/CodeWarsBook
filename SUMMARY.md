@@ -16,6 +16,7 @@
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
+    * [🙄Indexed capitalization](7-kyu/indexed-capitalization.md)    
 * 8 kyu
     * [🎂A Needle in the Haystack](8-kyu/a-needle-in-the-haystack.md)
 
