@@ -8,6 +8,7 @@
     * [📻Getting along with Integer Partitions](4-kyu/getting-along-with-integer-partitions.md)
 * 5 kyu
     * [✌️Regex Password Validation](5-kyu/regex-password-validation.md)
+    * [🏩Diophantine Equation](5-kyu/diophantine-equation.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
