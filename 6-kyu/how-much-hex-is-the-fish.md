@@ -46,3 +46,9 @@ from operator import xor
 def fisHex(name):
     return reduce(xor, (ord(c) - 87 for c in name.lower() if c in "abcdef"), 0)
 ~~~
+
+**Py Fourth:**
+~~~py
+def fisHex(name):
+  return reduce(int.__xor__, [int(x, 16) for x in name.lower() if x in "abcdef"], 0)
+~~~
