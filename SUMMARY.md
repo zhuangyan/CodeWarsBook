@@ -19,6 +19,7 @@
     * [🙄Indexed capitalization](7-kyu/indexed-capitalization.md)    
     * [🌎Flatten and sort an array](7-kyu/flatten-and-sort-an-array.md)    
     * [🌟List to Array](7-kyu/list-to-array.md)    
+    * [🎉Going to the cinema](7-kyu/going-to-the-cinema.md)    
 * 8 kyu
     * [🎂A Needle in the Haystack](8-kyu/a-needle-in-the-haystack.md)
 
