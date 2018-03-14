@@ -1,3 +1,5 @@
+**Kata's link:** [Longest palindrome](http://www.codewars.com/kata/longest-palindrome/)
+
 ## Task: 
 Find the length of the longest substring in the given string s that is the same in reverse.
 
@@ -15,7 +17,6 @@ If the length of the input string is 0, return value must be 0.
 "" -> 0
 ~~~
 
-**Kata's link:** [Adding Binary Numbers](http://www.codewars.com/kata/longest-palindrome/)
 
 
 ## Best Practices

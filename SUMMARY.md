@@ -18,6 +18,7 @@
     * [🐟How much hex is the fish](6-kyu/how-much-hex-is-the-fish.md)
     * [🍥Organise duplicate numbers in list](6-kyu/organise-duplicate-numbers-in-list.md)
     * [🍇Parse HTML/CSS Colors](6-kyu/parse-html-slash-css-colors.md)
+    * [⛵Equal Sides Of An Array](6-kyu/equal-sides-of-an-array.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)

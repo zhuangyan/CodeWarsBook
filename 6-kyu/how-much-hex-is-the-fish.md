@@ -1,3 +1,5 @@
+**Kata's link:** [How much hex is the fish](http://www.codewars.com/kata/how-much-hex-is-the-fish/)
+
 ## How much is the fish! (- Scooter )
 The ocean is full of colorful fishes. We as programmers want to know the hexadecimal value of these fishes.
 
@@ -12,7 +14,6 @@ The input is always a string, which can contain spaces, upper and lower case let
 fisHex("redlionfish") -> e,d,f -> XOR -> 12
 ~~~
 
-**Kata's link:** [Adding Binary Numbers](http://www.codewars.com/kata/how-much-hex-is-the-fish/)
 
 ## Best Practices
 

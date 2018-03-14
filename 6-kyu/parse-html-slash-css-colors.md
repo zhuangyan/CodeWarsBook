@@ -1,3 +1,5 @@
+**Kata's link:** [Parse HTML/CSS Colors](http://www.codewars.com/kata/parse-html-slash-css-colors/)
+
 ## Task: 
 In this kata you parse RGB colors represented by strings. The formats are primarily used in HTML and CSS. Your task is to implement a function which takes a color as a string and returns the parsed color as a map (see Examples).
 
@@ -21,7 +23,6 @@ parse_html_color('#3B7')      # => {'r': 51,  'g': 187, 'b': 119}
 parse_html_color('LimeGreen') # => {'r': 50,  'g': 205, 'b': 50 }
 ~~~
 
-**Kata's link:** [Adding Binary Numbers](http://www.codewars.com/kata/parse-html-slash-css-colors/)
 
 
 ## Best Practices

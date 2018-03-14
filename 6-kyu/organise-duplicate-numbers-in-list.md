@@ -10,7 +10,7 @@ group([3, 2, 6, 2, 1, 3])
 ~~~
 Assume the input is always going to be an array of numbers. If the input is an empty array, an empty array should be returned.
 
-**Kata's link:** [Adding Binary Numbers](http://www.codewars.com/kata/organise-duplicate-numbers-in-list/)
+**Kata's link:** [Organise duplicate numbers in list](http://www.codewars.com/kata/organise-duplicate-numbers-in-list/)
 
 ## Best Practices
 

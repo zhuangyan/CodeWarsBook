@@ -1,3 +1,5 @@
+**Kata's link:** [English beggars](http://www.codewars.com/kata/english-beggars/)
+
 ## Task: 
 Born a misinterpretation of this [kata](https://www.codewars.com/kata/simple-fun-number-334-two-beggars-and-gold/), your task here is pretty simple: given an array of values and an amount of beggars, you are supposed to return an array with the sum of what each beggar brings home, assuming they all take regular turns, from the first to the last.
 
@@ -11,7 +13,6 @@ Also note that not all beggars have to take the same amount of "offers", meaning
 in case you don't get why this kata is about English beggars, then you are not familiar on how religiously queues are taken in the kingdom ;)
 
 
-**Kata's link:** [Adding Binary Numbers](http://www.codewars.com/kata/english-beggars/)
 
 
 ## Best Practices
