@@ -25,6 +25,7 @@
     * [🚪Lambdas as a mechanism for Open/Closed](6-kyu/lambdas-as-a-mechanism-for-open-slash-closed.md)
     * [🚈IPv4 to int32](6-kyu/ipv4-to-int32.md)
     * [🖧Regexp Basics - is it IPv4 address?](6-kyu/regexp-basics-is-it-ipv4-address.md)
+    * [🤔Reverse or rotate?](6-kyu/reverse-or-rotate.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
