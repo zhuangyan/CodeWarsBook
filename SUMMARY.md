@@ -34,6 +34,7 @@
     * [🐵Look and say numbers](6-kyu/look-and-say-numbers.md)
     * [👩🏽Consecutive strings](6-kyu/consecutive-strings.md)
     * [👯🏿‍♂️Sort the odd](6-kyu/sort-the-odd.md)
+    * [✋Function Composition](6-kyu/function-composition.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
