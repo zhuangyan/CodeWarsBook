@@ -11,6 +11,7 @@
     * [✌️Regex Password Validation](5-kyu/regex-password-validation.md)
     * [🏩Diophantine Equation](5-kyu/diophantine-equation.md)
     * [😊A Chain adding function](5-kyu/diophantine-equation.md)
+    * [🐒Car Park Escape](5-kyu/car-park-escape.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
