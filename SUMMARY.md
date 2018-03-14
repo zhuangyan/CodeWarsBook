@@ -28,6 +28,7 @@
     * [🖧Regexp Basics - is it IPv4 address?](6-kyu/regexp-basics-is-it-ipv4-address.md)
     * [🤔Reverse or rotate?](6-kyu/reverse-or-rotate.md)
     * [😊Count characters in your string](6-kyu/count-characters-in-your-string.md)
+    * [🐵Look and say numbers](6-kyu/look-and-say-numbers.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
