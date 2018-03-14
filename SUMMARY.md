@@ -22,6 +22,7 @@
     * [⛵Equal Sides Of An Array](6-kyu/equal-sides-of-an-array.md)
     * [🏎️Buying a car](6-kyu/buying-a-car.md)
     * [🏴󠁢󠁲󠁰󠁩󠁿PI approximation](6-kyu/pi-approximation.md)
+    * [🚪Lambdas as a mechanism for Open/Closed](6-kyu/lambdas-as-a-mechanism-for-open-slash-closed.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
