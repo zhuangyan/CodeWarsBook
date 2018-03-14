@@ -10,6 +10,7 @@
 * 5 kyu
     * [✌️Regex Password Validation](5-kyu/regex-password-validation.md)
     * [🏩Diophantine Equation](5-kyu/diophantine-equation.md)
+    * [😊A Chain adding function](5-kyu/diophantine-equation.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
@@ -26,6 +27,7 @@
     * [🚈IPv4 to int32](6-kyu/ipv4-to-int32.md)
     * [🖧Regexp Basics - is it IPv4 address?](6-kyu/regexp-basics-is-it-ipv4-address.md)
     * [🤔Reverse or rotate?](6-kyu/reverse-or-rotate.md)
+    * [😊Count characters in your string](6-kyu/count-characters-in-your-string.md)
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
