@@ -12,6 +12,7 @@
     * [🤷🏾‍♂️How many numbers III?](4-kyu/how-many-numbers-iii.md)
     * [🙇🏾‍♀️Longest Common Subsequence](4-kyu/longest-common-subsequence.md)
     * [🏚️Base Conversion](4-kyu/base-conversion.md)
+    * [🎅Social Golfer Problem Validator](4-kyu/social-golfer-problem-validator.md)
 * 5 kyu
     * [✌️Regex Password Validation](5-kyu/regex-password-validation.md)
     * [🏩Diophantine Equation](5-kyu/diophantine-equation.md)
