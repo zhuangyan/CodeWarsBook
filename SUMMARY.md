@@ -8,6 +8,7 @@
     * [📻Getting along with Integer Partitions](4-kyu/getting-along-with-integer-partitions.md)
     * [🔲Square into Squares. Protect trees!](4-kyu/square-into-squares-protect-trees.md)
     * [🖐🏽Strings Mix](4-kyu/strings-mix.md)
+    * [❣️Number of Proper Fractions with Denominator d](4-kyu/number-of-proper-fractions-with-denominator-d.md)
 * 5 kyu
     * [✌️Regex Password Validation](5-kyu/regex-password-validation.md)
     * [🏩Diophantine Equation](5-kyu/diophantine-equation.md)
