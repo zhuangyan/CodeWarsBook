@@ -21,7 +21,8 @@
     * [😊A Chain adding function](5-kyu/diophantine-equation.md)
     * [🐒Car Park Escape](5-kyu/car-park-escape.md)
     * [🙈String incrementer](5-kyu/string-incrementer.md)
-    * [🚔Rot13](5-kyu/rot13-1.md)    
+    * [🚔Rot13](5-kyu/rot13-1.md)
+    * [🏆k-Primes](5-kyu/k-primes.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
@@ -46,10 +47,10 @@
 * 7 kyu
     * [⛱️Partial Word Searching](7-kyu/partial-word-searching.md)
     * [🔪SevenAte9](7-kyu/sevenate9.md)
-    * [🙄Indexed capitalization](7-kyu/indexed-capitalization.md)    
-    * [🌎Flatten and sort an array](7-kyu/flatten-and-sort-an-array.md)    
-    * [🌟List to Array](7-kyu/list-to-array.md)    
-    * [🎉Going to the cinema](7-kyu/going-to-the-cinema.md)    
+    * [🙄Indexed capitalization](7-kyu/indexed-capitalization.md)
+    * [🌎Flatten and sort an array](7-kyu/flatten-and-sort-an-array.md)
+    * [🌟List to Array](7-kyu/list-to-array.md)
+    * [🎉Going to the cinema](7-kyu/going-to-the-cinema.md)
 * 8 kyu
     * [🎂A Needle in the Haystack](8-kyu/a-needle-in-the-haystack.md)
 
