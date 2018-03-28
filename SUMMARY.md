@@ -27,6 +27,7 @@
     * [🏄Product of consecutive Fib numbers](5-kyu/product-of-consecutive-fib-numbers.md)
     * [🕵️Best travel](5-kyu/best-travel.md)
     * [🙍Directions Reduction](5-kyu/directions-reduction.md)
+    * [🇳Common Denominators](5-kyu/common-denominators.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
