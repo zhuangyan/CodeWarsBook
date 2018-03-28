@@ -23,6 +23,7 @@
     * [🙈String incrementer](5-kyu/string-incrementer.md)
     * [🚔Rot13](5-kyu/rot13-1.md)
     * [🏆k-Primes](5-kyu/k-primes.md)
+    * [☃️Gap in Primes](5-kyu/gap-in-primes.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
