@@ -7,11 +7,13 @@ Let us call weight of a number the sum of its digits. For example 99 will have "
 Two numbers are "close" if the difference of their weights is small.
 
 ## Task:
+
 For each number in strng calculate its "weight" and then find two numbers of strng that have:
 
 * the smallest difference of weights ie that are the closest
 * with the smallest weights
 * and with the smallest indices (or ranks, numbered from 0) in strng
+
 ## Output:
 
 * an array of two arrays, each subarray in the following format:
