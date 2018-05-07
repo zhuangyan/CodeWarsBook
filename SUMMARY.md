@@ -29,6 +29,7 @@
     * [🙍Directions Reduction](5-kyu/directions-reduction.md)
     * [🇳Common Denominators](5-kyu/common-denominators.md)
     * [⛹️Find the smallest](5-kyu/find-the-smallest.md)
+    * [🏓Recreation One](5-kyu/integers-recreation-one.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
