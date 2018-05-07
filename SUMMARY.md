@@ -32,6 +32,7 @@
     * [🏓Recreation One](5-kyu/integers-recreation-one.md)
     * [🏸Closest and Smallest](5-kyu/closest-and-smallest.md)
     * [🍕Maximum subarray sum](5-kyu/maximum-subarray-sum.md)
+    * [🍪Write out numbers](5-kyu/write-out-numbers.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
