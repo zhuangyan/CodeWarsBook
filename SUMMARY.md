@@ -41,6 +41,7 @@
     * [🏦Prime Sextuplets](5-kyu/prime-sextuplets.md)
     * [💶Emirps](5-kyu/emirps.md)
     * [💵Prefill an Array](5-kyu/prefill-an-array.md)
+    * [💱Extract the domain name from a URL](5-kyu/extract-the-domain-name-from-a-url-1.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
