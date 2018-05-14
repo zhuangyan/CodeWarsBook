@@ -39,6 +39,7 @@
     * [🏧Find the Partition with Maximum Product Value](5-kyu/find-the-partition-with-maximum-product-value.md)
     * [💷Find The Minimum Number Divisible by Integers of an Array II](5-kyu/find-the-minimum-number-divisible-by-integers-of-an-array-ii.md)
     * [🏦Prime Sextuplets](5-kyu/prime-sextuplets.md)
+    * [💶Emirps](5-kyu/emirps.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
