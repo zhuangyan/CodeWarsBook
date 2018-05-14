@@ -35,6 +35,7 @@
     * [🍪Write out numbers](5-kyu/write-out-numbers.md)
     * [🚵What's a Perfect Power anyway?](5-kyu/whats-a-perfect-power-anyway.md)
     * [👨Sum of Pairs](5-kyu/sum-of-pairs.md)
+    * [⛽Rotate a square matrix like a vortex](5-kyu/rotate-a-square-matrix-like-a-vortex.md)
 * 6 kyu
     * [🐶Sum of many ints](6-kyu/sum-of-many-ints.md)
     * [💖Adding Binary Numbers](6-kyu/adding-binary-numbers.md)
